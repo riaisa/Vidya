@@ -1,0 +1,10 @@
+git is a version control tool 
+
+Important git commands:-
+
+1) git add 
+
+2) git commit
+
+3) git push
+
